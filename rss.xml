@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Geordie Wine Guide]]></title>
         <description><![CDATA[The Geordie Wine Guide]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/geordiewineguide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 11:04:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 11:11:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/geordiewineguide/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pinot Rosé: Wine Review]]></title>
+            <description><![CDATA[<article><h1>Pinot Rosé: Wine Review</h1><p>In this episode we takes a look at some Rosé and explain why it isn't at all poncy. Lucien Crochet - Sancerre Pinot Rosé 2013 Link to the producers' website: http://www.lucien-crochet.fr/</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9faf05af0ac6a2ae96eedb15349bdf1d/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FIAd9x-5iYb8%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=IAd9x-5iYb8</link>
+            <guid isPermaLink="false">a5c415ea-990b-4f85-8ac5-b3d657e24bbc</guid>
+            <pubDate>Thu, 18 Aug 2016 11:11:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barolo And Barbaresco: Wine Review]]></title>
             <description><![CDATA[<article><h1>Barolo And Barbaresco: Wine Review</h1><p>Areet. The very first episode of The Geordie Wine Guide tackles some important issues and looks at some interesting Italian wines, Barolo & Barbaresco. In this episode we discuss: * The Nebbiolo grap</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/970342d0bc237abb3e2a9a646cbb63ed/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F52DLpX0f5xQ%2Fmaxresdefault.jpg"></article>]]></description>
