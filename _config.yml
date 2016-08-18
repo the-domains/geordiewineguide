@@ -1,0 +1,14 @@
+layout_spectrum: 0.06034301873296499
+typography_spectrum: 0.9045452438294888
+color:
+  brandStrength: 0.891104988520965
+  lightness: 0.7461933779995888
+  saturation: 0.9661562070250511
+  rhythmicContrast: 0.9980725527275354
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: geordiewineguide
