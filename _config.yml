@@ -1,4 +1,5 @@
-typography_spectrum: 0.7903281399048865
+layout_spectrum: 0.527175800409168
+typography_spectrum: 0.8478581043891609
 color:
   brandColors:
     - '#FFFFFF'
@@ -6,11 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.13216247619129717
-  lightness: 0.040045408299192786
-  saturation: 0.9406712399795651
-  rhythmicContrast: 0.08501701103523374
-layout_spectrum: 0.347521988209337
+  brandStrength: 0.9637214946560562
+  lightness: 0.007483684923499823
+  saturation: 0.07197511731646955
+  rhythmicContrast: 0.4489612893667072
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6802d9af-30e8-4897-b225-98ab32a83913.png
 name: The Geordie Wine Guide
