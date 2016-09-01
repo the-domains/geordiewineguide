@@ -1,7 +1,3 @@
-name: The Geordie Wine Guide
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6802d9af-30e8-4897-b225-98ab32a83913.png
-layout_spectrum: 0.527175800409168
 typography_spectrum: 0.8478581043891609
 color:
   brandColors:
@@ -14,4 +10,8 @@ color:
   lightness: 0.007483684923499823
   saturation: 0.07197511731646955
   rhythmicContrast: 0.4489612893667072
+layout_spectrum: 0.527175800409168
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6802d9af-30e8-4897-b225-98ab32a83913.png
+name: The Geordie Wine Guide
 title: The Geordie Wine Guide
